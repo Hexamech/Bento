@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Google Classroom',
+			name: 'Waterloo Learn',
 			icon: 'clipboard',
-			link: 'https://classroom.google.com/u/1/',
+			link: 'https://learn.uwaterloo.ca/d2l/home',
 		},
 		{
 			id: '4',
-			name: 'Brightspace',
-			icon: 'activity',
-			link: 'https://tdsb.elearningontario.ca/d2l/home/3601064',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/',
 		},
 		{
 			id: '5',
